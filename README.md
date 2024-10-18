@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/393156c2-40c4-45e0-aab1-8d1e5b9b2def)
 # Question_2
 
 Using Python, Flask, HTML, CSS, JavaScript to
