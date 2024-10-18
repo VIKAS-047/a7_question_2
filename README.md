@@ -31,7 +31,6 @@ cd a7_question_2
 ## Screenshots
 
 ![Screenshot (118)](https://github.com/user-attachments/assets/03950be1-6c7c-4631-a8a6-fde4c2c5f1dd)
-hots/Screenshot%20(116).png)
 
 
 
